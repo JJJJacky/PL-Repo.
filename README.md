@@ -14,4 +14,5 @@
 ## 課程筆記區
 ## 作業連結區
 > * [Task 1](https://github.com/JJJJacky/PL-Repo./blob/8ae80a06d1652b84b819899b4d0a3af91fa2c85c/Untitled.ipynb) 
+> * [作業1](https://github.com/JJJJacky/PL-Repo./blob/main/%E4%BD%9C%E6%A5%AD1.ipynb)
 ## 專題連結區
