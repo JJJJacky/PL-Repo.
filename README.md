@@ -17,4 +17,7 @@
 > * [作業1](https://github.com/JJJJacky/PL-Repo./blob/main/%E4%BD%9C%E6%A5%AD1.ipynb)
 > * [作業2](https://github.com/JJJJacky/PL-Repo./blob/main/%E4%BD%9C%E6%A5%AD2.ipynb)
 > * [作業3](https://github.com/JJJJacky/PL-Repo./blob/main/%E4%BD%9C%E6%A5%AD3/Untitled.ipynb)
+> * [作業5]
+> ** [文字談勘](https://github.com/JJJJacky/PL-Repo./blob/main/HW5.ipynb)
+
 ## 專題連結區
