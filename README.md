@@ -26,3 +26,4 @@
 
 ## 專題連結區
 > * [北部老街](https://github.com/JJJJacky/PL-Repo./blob/main/%E5%8C%97%E9%83%A8.ipynb)
+> * [中部老街](https://github.com/JJJJacky/PL-Repo./blob/main/%E4%B8%AD%E9%83%A8.ipynb)
