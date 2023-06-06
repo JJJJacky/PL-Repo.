@@ -28,4 +28,4 @@
 > * [北部老街](https://github.com/JJJJacky/PL-Repo./blob/main/%E5%8C%97%E9%83%A8.ipynb)
 > * [中部老街](https://github.com/JJJJacky/PL-Repo./blob/main/%E4%B8%AD%E9%83%A8.ipynb)
 > * [南部老街](https://github.com/JJJJacky/PL-Repo./blob/main/%E5%8D%97%E9%83%A8.ipynb)
-> * [Figma]([https://www.figma.com/proto/1hf1sDbNWID2ovCLbEqidU/%E8%8E%8A%E7%BF%94%E9%88%9E's-team-library?type=design&node-id=1822-107&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1814%3A2](https://www.figma.com/proto/1hf1sDbNWID2ovCLbEqidU/%E8%8E%8A%E7%BF%94%E9%88%9E's-team-library?type=design&node-id=1814-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1814%3A2))
+> * [Figma](https://www.figma.com/proto/1hf1sDbNWID2ovCLbEqidU/%E8%8E%8A%E7%BF%94%E9%88%9E's-team-library?type=design&node-id=1814-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1814%3A2)
